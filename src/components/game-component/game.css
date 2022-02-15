@@ -1,0 +1,55 @@
+h2 {
+  color: blueviolet;
+  font-size: 25px;
+}
+
+.lie {
+  width: 200px;
+  height: 100px;
+  border-color: blueviolet;
+  border-width: 1px;
+  border-radius: 5px;
+  font-size: 15px;
+  transition: ease-out 0.3s;
+  outline: none;
+}
+
+.lie:hover {
+  box-shadow: inset 200px 0 0 0 red;
+  cursor: pointer;
+  color: black;
+}
+
+.truth1 {
+  width: 200px;
+  height: 100px;
+  border-color: blueviolet;
+  border-width: 1px;
+  border-radius: 5px;
+  font-size: 15px;
+  transition: ease-out 0.3s;
+  outline: none;
+}
+
+.truth1:hover {
+  box-shadow: inset 200px 0 0 0 blueviolet;
+  cursor: pointer;
+  color: black;
+}
+
+.truth2 {
+  width: 200px;
+  height: 100px;
+  border-color: blueviolet;
+  border-width: 1px;
+  border-radius: 5px;
+  font-size: 15px;
+  transition: ease-out 0.3s;
+  outline: none;
+}
+
+.truth2:hover {
+  box-shadow: inset 200px 0 0 0 blueviolet;
+  cursor: pointer;
+  color: black;
+}
